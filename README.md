@@ -25,7 +25,7 @@ I've always been analytical, solution-oriented, and high achieving. I have been 
 
 New opportunities! I love learning and taking on a breadth of responsibilities and technical challenges. I'm also passionate about design and solving problems that benefit real people and communities. If you are looking for a highly motivated, technically skilled software or web developer, don't hesitate to reach out!
 
-- 📫 Reach me: via [LinkedIn](https://www.linkedin.com/in/asarwary24/) or [email](mailto:Abdul.m.sarwary@gmail.com)
+- 📫 Reach me: via [LinkedIn](https://www.linkedin.com/in/asarwary24/) or email: Abdul.m.sarwary@gmail.com 
 
 
 <h3 align="left">Languages and Tools:</h3>
