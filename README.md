@@ -19,7 +19,8 @@ I'm working part time while working on my skillset set as a software engineer. I
 
 #### **In the past** ..
 
-I've always been analytical, solution-oriented, and high achieving. I have been interned at NASA and created a number of coding projects. I maintain a high level of growth and achievement in developing my technical expertise, acquiring full-stack JavaScript and C# skills with over 1000 hours of coding experience in personal projects, coding and computer science courses.  
+I have been interned at NASA and created a number of coding projects. I've also taught myself Java, Python, and C++ and applied what I learned through personal projects.
+Object oriented programming is my favorite subject of all time in computer science. 
 
 #### **I'm looking for** ..
 
