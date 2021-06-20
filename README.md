@@ -24,7 +24,7 @@ Object oriented programming is my favorite subject of all time in computer scien
 
 #### **I'm looking for** ..
 
-New opportunities! I love learning and taking on a breadth of responsibilities and technical challenges. I'm also passionate about design and solving problems that benefit real people and communities. If you are looking for a highly motivated, technically skilled software or web developer, don't hesitate to reach out!
+New opportunities! I love learning and taking on a breadth of responsibilities and technical challenges. I'm also passionate about software and solving problems that benefit real people and communities. If you are looking for a highly motivated, technically skilled software or web developer, don't hesitate to reach out!
 
 - 📫 Reach me: via [LinkedIn](https://www.linkedin.com/in/asarwary24/) or email: Abdul.m.sarwary@gmail.com 
 
