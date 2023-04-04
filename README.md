@@ -15,16 +15,15 @@
 
 #### **Currently** ..
 
-I'm working part time while working on my skillset set as a software engineer. I love learning new things! 
+I'm an Engineering Technology student with a minor in Business at San Jose State University looking to gain job experience.
 
 #### **In the past** ..
 
-I have been interned at NASA and created a number of coding projects. I've also taught myself Java, Python, and C++ and applied what I learned through personal projects.
-Object oriented programming is my favorite subject of all time in computer science. 
+I have been apart of the NASA Scholars Program and worked on projects. I've also taught myself Python, SQL, web development, and applied what I learned through personal projects. I also been involved in IT work as well. 
 
 #### **I'm looking for** ..
 
-New opportunities! I love learning and taking on a breadth of responsibilities and technical challenges. I'm also passionate about software and solving problems that benefit real people and communities. If you are looking for a highly motivated, technically skilled software or web developer, don't hesitate to reach out!
+New opportunities! I love learning and taking on a breadth of responsibilities and technical challenges. I'm also passionate about software and solving problems that benefit real people and communities. If you are looking for a highly motivated, technically skilled engineer, don't hesitate to reach out!
 
 - 📫 Reach me: via [LinkedIn](https://www.linkedin.com/in/asarwary24/) or email: Abdul.m.sarwary@gmail.com 
 
